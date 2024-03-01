@@ -1,0 +1,17 @@
+{
+    "username": "<type your irctc user id>",
+    "password": "<type your irctc password>",
+    "_comment": "<below in from and to please type the station codes just like the example",
+    "from": "GKP",
+    "to": "YES",
+    "date": "05/08/2024",
+    "train_no"": "11447",
+    "p1_name": "<type passenger 1 name>",
+    "p1_age": "<type passenger 1 age>",
+    "p1_gender": "<type passenger 1 gender>",
+    "p1_dest_address": "<type passenger 1 destination address>",
+    "p1_dest_pincode": "<type passenger 1 destination pincode>",
+    "p1_mob_number": "3452344523",
+    "p1_email": "abc@gmail.com"
+  
+}
